@@ -1,0 +1,27 @@
+.navContainer{
+}
+
+.nav_title {
+    color: var(--primary_color);
+    font-weight: 700;
+    font-size: 23px;
+    margin: 2rem 0;
+    text-align: initial;
+    padding-left: 2rem;
+}
+
+.nav_list_wrapper {
+    text-align: initial;
+    margin-left: 2rem;
+}
+
+.active_nav {
+    font-weight: 700;
+    color: var(--primary_color);
+    border-bottom: 1px solid var(--primary_color);
+    width: fit-content;
+}
+
+.nav_item {
+    padding: 1rem 0;
+}

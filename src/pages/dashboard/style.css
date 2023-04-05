@@ -1,0 +1,9 @@
+.dashBoardContainer{
+    display: grid;
+    grid-template-columns: 25% 75%;
+    height: 100vh;
+}
+
+.leftNav {
+    background-color: var(--light_grey);
+}

@@ -1,0 +1,26 @@
+.analytical_container{
+    margin: 2rem;
+}
+
+.range_picker {
+ display: flex;   
+}
+
+.iconStyle {
+    color: var(--primary_color);
+    margin-right: 0.6rem;
+}
+
+.state_board {
+    display: flex;
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.state_item {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    /* padding: 1rem 68px; */
+    width: 14rem;
+    padding: 1rem 1rem;
+    text-align: initial; 
+}
